@@ -1,0 +1,2188 @@
+{
+  "_id": "58f8adfae1a7d0027e8dcb20",
+  "_menu": "mapMenu",
+  "_courseId": "58f8adfae1a7d0027e8dcb1e",
+  "__v": 851,
+  "_themeSettings": {
+    "_colors": {
+      "_labelAlternative": {
+        "@label-alt-text-color": "#454545",
+        "@label-alt-background-color": "#eeeeee"
+      },
+      "_markingAlternative": {
+        "@marking-alt-incorrect-color": "#ed5565",
+        "@marking-alt-correct-color": "#48cfad",
+        "@marking-alt-icon-color": "#ffffff"
+      },
+      "_captionAlternative": {
+        "@caption-alt-text-color": "#454545",
+        "@caption-alt-background-color": "#eeeeee"
+      },
+      "_attemptsCounterAlternative": {
+        "@attempts-counter-alt-text-color": "#454545",
+        "@attempts-counter-alt-border-color": "#454545",
+        "@attempts-counter-alt-background-color": "#ffffff"
+      },
+      "_buttonAlternative": {
+        "@button-alt-text-disabled-color": "#ccd1d9",
+        "@button-alt-text-hover-color": "#ffffff",
+        "@button-alt-text-color": "#ffffff",
+        "@button-alt-border-disabled-color": "#aab2bd",
+        "@button-alt-border-hover-color": "#4a89dc",
+        "@button-alt-border-color": "#5d9cec",
+        "@button-alt-background-disabled-color": "#aab2bd",
+        "@button-alt-background-hover-color": "#4a89dc",
+        "@button-alt-background-color": "#5d9cec"
+      },
+      "_componentItemAlternative": {
+        "@component-item-alt-body-background-color": "#eeeeee",
+        "@component-item-alt-body-text-color": "#454545",
+        "@component-item-alt-title-text-color": "#454545",
+        "@component-item-alt-text-visited-color": "#ffffff",
+        "@component-item-alt-text-disabled-color": "#ccd1d9",
+        "@component-item-alt-text-selected-color": "#ffffff",
+        "@component-item-alt-text-hover-color": "#ffffff",
+        "@component-item-alt-text-color": "#3498db",
+        "@component-item-alt-border-visited-color": "#5d9cec",
+        "@component-item-alt-border-disabled-color": "#aab2bd",
+        "@component-item-alt-border-selected-color": "#5d9cec",
+        "@component-item-alt-border-hover-color": "#5d9cec",
+        "@component-item-alt-border-color": "#eeeeee",
+        "@component-item-alt-background-visited-color": "#5d9cec",
+        "@component-item-alt-background-disabled-color": "#aab2bd",
+        "@component-item-alt-background-selected-color": "#5d9cec",
+        "@component-item-alt-background-hover-color": "#5d9cec",
+        "@component-item-alt-background-color": "#eeeeee"
+      },
+      "_componentAlternative": {
+        "@component-alt-instruction-text-color": "#454545",
+        "@component-alt-body-text-color": "#666666",
+        "@component-alt-title-text-color": "#454545"
+      },
+      "_contentRowAlternative": {
+        "@content-row-alt-border-color": "#ecf0f1",
+        "@content-row-alt-body-text-color": "#666666",
+        "@content-row-alt-title-text-color": "#454545"
+      },
+      "_achievements": {
+        "@achievements-lives-color": "#ed5565",
+        "@achievements-stars-color": "#ffce54",
+        "@achievements-points-color": "#48cfad"
+      },
+      "_notificationBadge": {
+        "@notification-badge-text-color": "#FFFFFF",
+        "@notification-badge-background-color": "#da4453"
+      },
+      "_loading": {
+        "@loading-text-color": "#454545"
+      },
+      "_marking": {
+        "@marking-incorrect-color": "#ed5565",
+        "@marking-correct-color": "#48cfad",
+        "@marking-icon-color": "#ffffff"
+      },
+      "_progressBar": {
+        "@progress-bar-text-color": "#454545",
+        "@progress-bar-border-color": "#ecf0f1",
+        "@progress-bar-indicator-color": "#48cfad",
+        "@progress-bar-background-color": "#e0e0e8"
+      },
+      "_score": {
+        "@score-label-color": "#454545",
+        "@score-text-color": "#ffffff",
+        "@score-background-color": "#454545"
+      },
+      "_chart": {
+        "@chart-highlight-color": "#48cfad",
+        "@chart-label-color": "#454545",
+        "@chart-text-color": "#454545",
+        "@chart-background-color": "#ccd1d9"
+      },
+      "_label": {
+        "@label-text-color": "#454545",
+        "@label-background-color": "#ebecee"
+      },
+      "_caption": {
+        "@caption-text-color": "#454545",
+        "@caption-background-color": "#ebecee"
+      },
+      "_collection": {
+        "@collection-item-footer-text-color": "#454545",
+        "@collection-item-footer-background-color": "#ebecee",
+        "@collection-item-text-color": "#454545",
+        "@collection-item-background-color": "#ffffff"
+      },
+      "_list": {
+        "@list-text-color": "#454545",
+        "@list-background-odd-color": "#d6d7d8",
+        "@list-background-color": "#ebecee"
+      },
+      "_attemptsCounter": {
+        "@attempts-counter-text-color": "#999999",
+        "@attempts-counter-border-color": "#999999",
+        "@attempts-counter-background-color": "#ffffff"
+      },
+      "_footer": {
+        "@footer-counter-text-color": "#454545",
+        "@footer-counter-background-color": "#ebecee",
+        "@footer-link-text-hover-color": "#3bafda",
+        "@footer-link-text-color": "#4fc1e9",
+        "@footer-link-background-hover-color": "#ffffff",
+        "@footer-link-background-color": "#ffffff",
+        "@footer-background-color": "#ffffff"
+      },
+      "_buttonWarning": {
+        "@button-warning-text-disabled-color": "#bdc3c7",
+        "@button-warning-text-hover-color": "#ffffff",
+        "@button-warning-text-color": "#FFFFFF",
+        "@button-warning-border-disabled-color": "#7f8c8d",
+        "@button-warning-border-hover-color": "#c71528",
+        "@button-warning-border-color": "#e74c3c",
+        "@button-warning-background-disabled-color": "#7f8c8d",
+        "@button-warning-background-hover-color": "#c71528",
+        "@button-warning-background-color": "#e74c3c"
+      },
+      "_button": {
+        "@button-text-disabled-color": "#ccd1d9",
+        "@button-text-hover-color": "#ffffff",
+        "@button-text-color": "#ffffff",
+        "@button-border-disabled-color": "#aab2bd",
+        "@button-border-hover-color": "#4a89dc",
+        "@button-border-color": "#5d9cec",
+        "@button-background-disabled-color": "#aab2bd",
+        "@button-background-hover-color": "#4a89dc",
+        "@button-background-color": "#bdc3c7"
+      },
+      "_notify": {
+        "@notify-button-text-hover-color": "#ffffff",
+        "@notify-button-text-color": "#ffffff",
+        "@notify-button-border-hover-color": "#4a89dc",
+        "@notify-button-border-color": "#5d9cec",
+        "@notify-button-background-hover-color": "#4a89dc",
+        "@notify-button-background-color": "#5d9cec",
+        "@notify-icon-color": "#5d9cec",
+        "@notify-body-text-color": "#666666",
+        "@notify-title-text-color": "#454545",
+        "@notify-background-color": "#ffffff"
+      },
+      "_navigation": {
+        "@navigation-mobile-icon-hover-color": "#4a89dc",
+        "@navigation-mobile-icon-color": "#2c3e50",
+        "@navigation-mobile-background-color": "#ecf0f1",
+        "@navigation-highlight-icon-hover-color": "#ecf0f1",
+        "@navigation-highlight-icon-color": "#ecf0f1",
+        "@navigation-highlight-hover-color": "#5d9cec",
+        "@navigation-highlight-color": "#4a89dc",
+        "@navigation-icon-selected-hover-color": "#4a89dc",
+        "@navigation-icon-selected-color": "#5d9cec",
+        "@navigation-icon-disabled-color": "#A0A1A2",
+        "@navigation-icon-hover-color": "#4a89dc",
+        "@navigation-icon-color": "#ecf0f1",
+        "@navigation-background-color": "#2c3e50"
+      },
+      "_componentItem": {
+        "@component-item-body-background-color": "#eeeeee",
+        "@component-item-body-text-color": "#454545",
+        "@component-item-title-text-color": "#454545",
+        "@component-item-text-visited-color": "#ffffff",
+        "@component-item-text-disabled-color": "#ccd1d9",
+        "@component-item-text-selected-color": "#ffffff",
+        "@component-item-text-hover-color": "#ffffff",
+        "@component-item-text-color": "#ffffff",
+        "@component-item-border-visited-color": "#8158cf",
+        "@component-item-border-disabled-color": "#aab2bd",
+        "@component-item-border-selected-color": "#8158cf",
+        "@component-item-border-hover-color": "#8158cf",
+        "@component-item-border-color": "#9978d8",
+        "@component-item-background-visited-color": "#8158cf",
+        "@component-item-background-disabled-color": "#aab2bd",
+        "@component-item-background-selected-color": "#8158cf",
+        "@component-item-background-hover-color": "#8158cf",
+        "@component-item-background-color": "#9978d8"
+      },
+      "_component": {
+        "@component-instruction-text-color": "#454545",
+        "@component-body-text-color": "#666666",
+        "@component-title-text-color": "#454545"
+      },
+      "_contentRow": {
+        "@content-row-border-color": "#ecf0f1",
+        "@content-row-body-text-color": "#666666",
+        "@content-row-title-text-color": "#454545"
+      },
+      "_contentStandOut": {
+        "@content-stand-out-icon-color": "#ffffff",
+        "@content-stand-out-icon-background-color": "#4fc1e9",
+        "@content-stand-out-background-color": "#FFFFFF"
+      },
+      "_contentSummary": {
+        "@content-summary-title-background-color": "#4fc1e9",
+        "@content-summary-body-text-color": "#666666",
+        "@content-summary-title-text-color": "#ffffff",
+        "@content-summary-background-color": "#ffffff"
+      },
+      "_contentKnowledgeCheck": {
+        "@content-knowledge-check-title-background-color": "#4fc1e9",
+        "@content-knowledge-check-body-text-color": "#666666",
+        "@content-knowledge-check-title-text-color": "#ffffff",
+        "@content-knowledge-check-background-color": "#ffffff"
+      },
+      "_contentArticle": {
+        "@content-article-border-color": "#4fc1e9",
+        "@content-article-body-text-color": "#666666",
+        "@content-article-title-text-color": "#454545",
+        "@content-article-background-color": "#ffffff"
+      },
+      "_contentDefault": {
+        "@content-default-body-text-color": "#666666",
+        "@content-default-title-text-color": "#454545",
+        "@content-default-background-color": "#ffffff"
+      },
+      "_heroImage": {
+        "@hero-body-text-color": "#ffffff",
+        "@hero-title-text-color": "#ffffff"
+      },
+      "_header": {
+        "@header-info-background-color": "#3bafda",
+        "@header-info-text-color": "#ffffff",
+        "@header-body-text-color": "#ffffff",
+        "@header-title-text-color": "#ffffff",
+        "@header-background-color": "#4fc1e9"
+      },
+      "_course": {
+        "@course-background-color": "#e6e9ed"
+      }
+    },
+    "_fonts": {
+      "_componentTitle": {
+        "_fontFamily": "Titillium Web",
+        "_fontType": "theme",
+        "_variables": {
+          "@component-title-font-line-height": 1.25,
+          "@component-title-font-weight": 700,
+          "@component-title-font-size": 25,
+          "@component-title-font-family": "Titillium Web"
+        }
+      },
+      "_contentRowTitle": {
+        "_fontFamily": "Titillium Web",
+        "_fontType": "theme",
+        "_variables": {
+          "@content-row-title-font-line-height": 1.25,
+          "@content-row-title-font-weight": 700,
+          "@content-row-title-font-size": 25,
+          "@content-row-title-font-family": "Titillium Web"
+        }
+      },
+      "_contentTitle": {
+        "_fontFamily": "Titillium Web",
+        "_fontType": "theme",
+        "_variables": {
+          "@content-title-font-line-height": 1.25,
+          "@content-title-font-weight": 700,
+          "@content-title-font-size": 35,
+          "@content-title-font-family": "Titillium Web"
+        }
+      },
+      "_header": {
+        "_fontFamily": "Titillium Web",
+        "_fontType": "theme",
+        "_variables": {
+          "@header-font-line-height": 1.25,
+          "@header-font-weight": 700,
+          "@header-font-size": 45,
+          "@header-font-family": "Titillium Web"
+        }
+      },
+      "_heroTitle": {
+        "_fontFamily": "Titillium Web",
+        "_fontType": "theme",
+        "_variables": {
+          "@hero-title-font-line-height": 1.25,
+          "@hero-title-font-weight": 700,
+          "@hero-title-font-size": 45,
+          "@hero-title-font-family": "Titillium Web"
+        }
+      },
+      "_body": {
+        "_fontFamily": "Titillium Web",
+        "_fontType": "theme",
+        "_variables": {
+          "@body-font-weight": 400,
+          "@body-font-size": 16,
+          "@body-font-family": "Titillium Web"
+        }
+      }
+    },
+    "_articleStyles": {
+      "stand-out": "Stand Out",
+      "summary": "Summary",
+      "knowledge-check": "Knowledge Check",
+      "content": "Content",
+      "default": "Default"
+    },
+    "_isEnabled": false
+  },
+  "_publishSettings": {
+    "_offline": {
+      "_isEnabled": false
+    },
+    "_scorm": {
+      "_reporting": {
+        "_onAssessmentFailure": "incomplete",
+        "_onTrackingCriteriaMet": "completed"
+      },
+      "_tracking": {
+        "_shouldSubmitScore": false,
+        "_requireAssessmentPassed": false,
+        "_requireCourseCompleted": false
+      },
+      "_shouldUseScrollFix": false,
+      "_shouldUsePopup": false,
+      "_scormVersion": "1.2",
+      "_isEnabled": false
+    },
+    "_tracker": {
+      "_pushData": "/api/usersCourse",
+      "_getData": "/api/usersCourse",
+      "_login": "/api/login",
+      "_auth": "/api/isAuthenticated",
+      "_isEnabled": false
+    }
+  },
+  "_assets": [
+    {
+      "description": "",
+      "title": "Certificate",
+      "_id": "58f8adfae1a7d0027e8dcb22",
+      "_filter": {
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfae1a7d0027e8dcb1e",
+      "_assetId": "58b6b30d6faa37e744951475"
+    },
+    {
+      "description": "",
+      "title": "TC",
+      "_id": "58f8adfae1a7d0027e8dcb23",
+      "_filter": {
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfae1a7d0027e8dcb1e",
+      "_assetId": "58b0376a6faa37e7449513a9"
+    },
+    {
+      "_id": "58f8adfae1a7d0027e8dcb24",
+      "_filter": {
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfae1a7d0027e8dcb1e",
+      "_assetId": "58b6b40e6faa37e74495147a"
+    },
+    {
+      "description": "",
+      "title": "Complete",
+      "_id": "58f8adfae1a7d0027e8dcb25",
+      "_filter": {
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfae1a7d0027e8dcb1e",
+      "_assetId": "58b01fb650d3bf600d233b9f"
+    },
+    {
+      "description": "",
+      "title": "Desk Space",
+      "_id": "58f8adfae1a7d0027e8dcb26",
+      "_filter": {
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfae1a7d0027e8dcb1e",
+      "_assetId": "58f78e0816078b376ae9d0a7"
+    },
+    {
+      "description": "",
+      "title": "Discount",
+      "_id": "58f8adfae1a7d0027e8dcb27",
+      "_filter": {
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfae1a7d0027e8dcb1e",
+      "_assetId": "58f78f7316078b376ae9d0aa"
+    },
+    {
+      "description": "",
+      "title": "Fast track",
+      "_id": "58f8adfae1a7d0027e8dcb28",
+      "_filter": {
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfae1a7d0027e8dcb1e",
+      "_assetId": "58f78fbd16078b376ae9d0ad"
+    },
+    {
+      "title": "Idea_optimized_full.png",
+      "_id": "58f8adfae1a7d0027e8dcb2a",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfae1a7d0027e8dcb29",
+      "_assetId": "58b0435a6faa37e7449513e9"
+    },
+    {
+      "title": "Idea_optimized_full.jpeg",
+      "_id": "58f8adfae1a7d0027e8dcb2c",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfae1a7d0027e8dcb29",
+      "_assetId": "58b040a16faa37e7449513e2"
+    },
+    {
+      "description": "",
+      "title": "Idea",
+      "_id": "58f8adfae1a7d0027e8dcb2e",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfae1a7d0027e8dcb29",
+      "_assetId": "58b02e8d6faa37e744951399"
+    },
+    {
+      "_id": "58f8adfae1a7d0027e8dcb2f",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfae1a7d0027e8dcb29",
+      "_assetId": "58c9547713b751d90c4ed45a"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
+      "title": "Torch",
+      "_id": "58f8adfae1a7d0027e8dcb36",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfae1a7d0027e8dcb35",
+      "_assetId": "58b581c86faa37e74495144c"
+    },
+    {
+      "description": "",
+      "title": "Value proposition example",
+      "_id": "58f8adfae1a7d0027e8dcb3c",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfae1a7d0027e8dcb3b",
+      "_assetId": "58b68fd36faa37e744951465"
+    },
+    {
+      "description": "",
+      "title": "Value proposition example",
+      "_id": "58f8adfae1a7d0027e8dcb3d",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfae1a7d0027e8dcb3b",
+      "_assetId": "58b68fd36faa37e744951465"
+    },
+    {
+      "description": "",
+      "title": "Placeholder",
+      "_id": "58f8adfae1a7d0027e8dcb3e",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfae1a7d0027e8dcb3b",
+      "_assetId": "58b699436faa37e74495146b"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Explorer",
+      "_id": "58f8adfbe1a7d0027e8dcb42",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb41",
+      "_assetId": "58b550dc6faa37e744951426"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Risk taker",
+      "_id": "58f8adfbe1a7d0027e8dcb43",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb41",
+      "_assetId": "58b551a46faa37e744951428"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Obstacles",
+      "_id": "58f8adfbe1a7d0027e8dcb44",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb41",
+      "_assetId": "58b551cf6faa37e74495142a"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Creativity",
+      "_id": "58f8adfbe1a7d0027e8dcb45",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb41",
+      "_assetId": "58b5525d6faa37e74495142c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Tenacity",
+      "_id": "58f8adfbe1a7d0027e8dcb46",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb41",
+      "_assetId": "58b555116faa37e744951430"
+    },
+    {
+      "description": "",
+      "title": "green quiz 2",
+      "_id": "58f8adfbe1a7d0027e8dcb48",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb47",
+      "_assetId": "58ca992d13b751d90c4ed485"
+    },
+    {
+      "description": "",
+      "title": "Time",
+      "_id": "58f8adfbe1a7d0027e8dcb4c",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb4b",
+      "_assetId": "58b6d4296faa37e74495148c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
+      "title": "Torch",
+      "_id": "58f8adfbe1a7d0027e8dcb51",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb50",
+      "_assetId": "58b581c86faa37e74495144c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
+      "title": "Scale",
+      "_id": "58f8adfbe1a7d0027e8dcb56",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb55",
+      "_assetId": "58b584e36faa37e744951457"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Tenacity",
+      "_id": "58f8adfbe1a7d0027e8dcb5a",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb59",
+      "_assetId": "58b555116faa37e744951430"
+    },
+    {
+      "description": "",
+      "title": "Maps2",
+      "_id": "58f8adfbe1a7d0027e8dcb5b",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb59",
+      "_assetId": "58c2d81213b751d90c4ed41d"
+    },
+    {
+      "description": "",
+      "title": "Targ2",
+      "_id": "58f8adfbe1a7d0027e8dcb5c",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb59",
+      "_assetId": "58c2d82013b751d90c4ed41f"
+    },
+    {
+      "description": "",
+      "title": "nahs",
+      "_id": "58f8adfbe1a7d0027e8dcb5d",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb59",
+      "_assetId": "58b6f8516faa37e744951498"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Risk taker",
+      "_id": "58f8adfbe1a7d0027e8dcb5e",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb59",
+      "_assetId": "58b551a46faa37e744951428"
+    },
+    {
+      "description": "",
+      "title": "Tick2",
+      "_id": "58f8adfbe1a7d0027e8dcb68",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb67",
+      "_assetId": "58c0339a13b751d90c4ed3f7"
+    },
+    {
+      "description": "",
+      "title": "Idea",
+      "_id": "58f8adfbe1a7d0027e8dcb72",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb71",
+      "_assetId": "58b02e8d6faa37e744951399"
+    },
+    {
+      "title": "Idea_optimized_full.png",
+      "_id": "58f8adfbe1a7d0027e8dcb73",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb71",
+      "_assetId": "58b0435a6faa37e7449513e9"
+    },
+    {
+      "description": "",
+      "title": "Module 2 banner",
+      "_id": "58f8adfbe1a7d0027e8dcb75",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb71",
+      "_assetId": "58b86ba86faa37e7449516a1"
+    },
+    {
+      "description": "",
+      "title": "Chart image",
+      "_id": "58f8adfbe1a7d0027e8dcb76",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb71",
+      "_assetId": "58b86bcc6faa37e7449516a3"
+    },
+    {
+      "description": "",
+      "title": "Business",
+      "_id": "58f8adfbe1a7d0027e8dcb7d",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfbe1a7d0027e8dcb7c",
+      "_assetId": "58b83e846faa37e744951650"
+    },
+    {
+      "description": "",
+      "title": "BMC explained",
+      "_id": "58f8adfce1a7d0027e8dcb83",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfce1a7d0027e8dcb82",
+      "_assetId": "58b835026faa37e74495164b"
+    },
+    {
+      "description": "",
+      "title": "BMC explained",
+      "_id": "58f8adfce1a7d0027e8dcb84",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfce1a7d0027e8dcb82",
+      "_assetId": "58b835026faa37e74495164b"
+    },
+    {
+      "description": "",
+      "title": "DBA placeholder blue",
+      "_id": "58f8adfce1a7d0027e8dcb85",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfce1a7d0027e8dcb82",
+      "_assetId": "58c13e0413b751d90c4ed408"
+    },
+    {
+      "description": "CC-BY Osterwalder",
+      "title": "Business Model Canvas",
+      "_id": "58f8adfce1a7d0027e8dcb89",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfce1a7d0027e8dcb88",
+      "_assetId": "58b8186e6faa37e74495162c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/business\">Business vector created by Freepik</a>",
+      "title": "Demographics",
+      "_id": "58f8adfce1a7d0027e8dcb8d",
+      "_filter": {
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfce1a7d0027e8dcb8c",
+      "_assetId": "58b84e8e6faa37e744951656"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/business\">Business vector created by Freepik</a>",
+      "title": "Behaviours",
+      "_id": "58f8adfce1a7d0027e8dcb8e",
+      "_filter": {
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfce1a7d0027e8dcb8c",
+      "_assetId": "58b84eb36faa37e744951658"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/business\">Business vector created by Freepik</a>",
+      "title": "Needs",
+      "_id": "58f8adfce1a7d0027e8dcb8f",
+      "_filter": {
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfce1a7d0027e8dcb8c",
+      "_assetId": "58b84ec56faa37e74495165a"
+    },
+    {
+      "description": "",
+      "title": "Grip span",
+      "_id": "58f8adfce1a7d0027e8dcb93",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfce1a7d0027e8dcb92",
+      "_assetId": "58b867746faa37e744951697"
+    },
+    {
+      "description": "",
+      "title": "Grip span",
+      "_id": "58f8adfce1a7d0027e8dcb94",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfce1a7d0027e8dcb92",
+      "_assetId": "58b867746faa37e744951697"
+    },
+    {
+      "description": "",
+      "title": "Chart",
+      "_id": "58f8adfce1a7d0027e8dcb9a",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfce1a7d0027e8dcb99",
+      "_assetId": "58b867a96faa37e74495169a"
+    },
+    {
+      "description": "",
+      "title": "Chart",
+      "_id": "58f8adfce1a7d0027e8dcb9b",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfce1a7d0027e8dcb99",
+      "_assetId": "58b867a96faa37e74495169a"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/business\">Business vector created by Freepik</a>",
+      "title": "Practice",
+      "_id": "58f8adfce1a7d0027e8dcba2",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfce1a7d0027e8dcba1",
+      "_assetId": "58b854b16faa37e744951660"
+    },
+    {
+      "description": "",
+      "title": "Module2 Intro",
+      "_id": "58f8adfce1a7d0027e8dcba6",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfce1a7d0027e8dcba5",
+      "_assetId": "58b7fc266faa37e744951628"
+    },
+    {
+      "description": "",
+      "title": "Module2 Intro",
+      "_id": "58f8adfce1a7d0027e8dcba7",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfce1a7d0027e8dcba5",
+      "_assetId": "58b7fc266faa37e744951628"
+    },
+    {
+      "description": "",
+      "title": "DBA placeholder blue",
+      "_id": "58f8adfce1a7d0027e8dcba8",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfce1a7d0027e8dcba5",
+      "_assetId": "58c13e0413b751d90c4ed408"
+    },
+    {
+      "description": "",
+      "title": "Tick2",
+      "_id": "58f8adfce1a7d0027e8dcbad",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfce1a7d0027e8dcbac",
+      "_assetId": "58c0339a13b751d90c4ed3f7"
+    },
+    {
+      "description": "",
+      "title": "Blue banner quiz",
+      "_id": "58f8adfce1a7d0027e8dcbaf",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfce1a7d0027e8dcbae",
+      "_assetId": "58caccc413b751d90c4ed4ac"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/business\">Business vector created by Freepik</a>",
+      "title": "Practice",
+      "_id": "58f8adfde1a7d0027e8dcbb3",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfce1a7d0027e8dcbb2",
+      "_assetId": "58b854b16faa37e744951660"
+    },
+    {
+      "description": "",
+      "title": "Home button",
+      "_id": "58f8adfde1a7d0027e8dcbb9",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfde1a7d0027e8dcbb8",
+      "_assetId": "58caafc613b751d90c4ed498"
+    },
+    {
+      "description": "",
+      "title": "Next icon",
+      "_id": "58f8adfde1a7d0027e8dcbbb",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfde1a7d0027e8dcbba",
+      "_assetId": "58cab04b13b751d90c4ed49a"
+    },
+    {
+      "title": "Idea_optimized_full.png",
+      "_id": "58f8adfee1a7d0027e8dcbfa",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfee1a7d0027e8dcbf9",
+      "_assetId": "58b0435a6faa37e7449513e9"
+    },
+    {
+      "description": "",
+      "title": "Idea",
+      "_id": "58f8adfee1a7d0027e8dcbfb",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfee1a7d0027e8dcbf9",
+      "_assetId": "58b02e8d6faa37e744951399"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/light\">Light vector created by Dooder - Freepik.com</a>",
+      "title": "Mod 5 Menu",
+      "_id": "58f8adfee1a7d0027e8dcbfd",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfee1a7d0027e8dcbf9",
+      "_assetId": "58b949266faa37e7449516a9"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/light\">Light vector created by Dooder - Freepik.com</a>",
+      "title": "Mod 5 Banner",
+      "_id": "58f8adfee1a7d0027e8dcbfe",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfee1a7d0027e8dcbf9",
+      "_assetId": "58b949886faa37e7449516ae"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/light\">Light vector created by Dooder - Freepik.com</a>",
+      "title": "Mod 5 Banner",
+      "_id": "58f8adfee1a7d0027e8dcbff",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfee1a7d0027e8dcbf9",
+      "_assetId": "58b949886faa37e7449516ae"
+    },
+    {
+      "description": "",
+      "title": "Shake",
+      "_id": "58f8adfee1a7d0027e8dcc06",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfee1a7d0027e8dcc05",
+      "_assetId": "58d105b013b751d90c4ed530"
+    },
+    {
+      "description": "",
+      "title": "Research",
+      "_id": "58f8adfee1a7d0027e8dcc07",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfee1a7d0027e8dcc05",
+      "_assetId": "58d105cc13b751d90c4ed532"
+    },
+    {
+      "description": "",
+      "title": "Coffees",
+      "_id": "58f8adfee1a7d0027e8dcc08",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfee1a7d0027e8dcc05",
+      "_assetId": "58d105e013b751d90c4ed534"
+    },
+    {
+      "description": "",
+      "title": "Date",
+      "_id": "58f8adfee1a7d0027e8dcc09",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfee1a7d0027e8dcc05",
+      "_assetId": "58d105ec13b751d90c4ed536"
+    },
+    {
+      "description": "",
+      "title": "Startoff",
+      "_id": "58f8adfee1a7d0027e8dcc0a",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfee1a7d0027e8dcc05",
+      "_assetId": "58d1081213b751d90c4ed538"
+    },
+    {
+      "description": "",
+      "title": "DBA placeholder taupe",
+      "_id": "58f8adfee1a7d0027e8dcc0f",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfee1a7d0027e8dcc0e",
+      "_assetId": "58c13e3b13b751d90c4ed40b"
+    },
+    {
+      "description": "",
+      "title": "The mom test",
+      "_id": "58f8adfee1a7d0027e8dcc10",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfee1a7d0027e8dcc0e",
+      "_assetId": "58d0faff13b751d90c4ed52d"
+    },
+    {
+      "description": "",
+      "title": "The mom test",
+      "_id": "58f8adffe1a7d0027e8dcc11",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adfee1a7d0027e8dcc0e",
+      "_assetId": "58d0faff13b751d90c4ed52d"
+    },
+    {
+      "description": "",
+      "title": "nb",
+      "_id": "58f8adffe1a7d0027e8dcc15",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adffe1a7d0027e8dcc14",
+      "_assetId": "58cfe98813b751d90c4ed516"
+    },
+    {
+      "description": "",
+      "title": "Taupe quiz banner",
+      "_id": "58f8adffe1a7d0027e8dcc17",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adffe1a7d0027e8dcc16",
+      "_assetId": "58d1166d13b751d90c4ed544"
+    },
+    {
+      "description": "",
+      "title": "Go!",
+      "_id": "58f8adffe1a7d0027e8dcc1b",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adffe1a7d0027e8dcc1a",
+      "_assetId": "58d1131813b751d90c4ed53c"
+    },
+    {
+      "description": "",
+      "title": "Mom",
+      "_id": "58f8adffe1a7d0027e8dcc1f",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adffe1a7d0027e8dcc1e",
+      "_assetId": "58d1140413b751d90c4ed53e"
+    },
+    {
+      "description": "",
+      "title": "Target",
+      "_id": "58f8adffe1a7d0027e8dcc24",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adffe1a7d0027e8dcc23",
+      "_assetId": "58d1149113b751d90c4ed540"
+    },
+    {
+      "description": "",
+      "title": "Go!",
+      "_id": "58f8adffe1a7d0027e8dcc2a",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adffe1a7d0027e8dcc29",
+      "_assetId": "58d1131813b751d90c4ed53c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
+      "title": "Lightbulb",
+      "_id": "58f8adffe1a7d0027e8dcc34",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adffe1a7d0027e8dcc33",
+      "_assetId": "58b590806faa37e74495145f"
+    },
+    {
+      "description": "",
+      "title": "Home button",
+      "_id": "58f8adffe1a7d0027e8dcc38",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adffe1a7d0027e8dcc37",
+      "_assetId": "58caafc613b751d90c4ed498"
+    },
+    {
+      "description": "",
+      "title": "Next icon",
+      "_id": "58f8adffe1a7d0027e8dcc3a",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adffe1a7d0027e8dcc39",
+      "_assetId": "58cab04b13b751d90c4ed49a"
+    },
+    {
+      "description": "",
+      "title": "Searching",
+      "_id": "58f8adffe1a7d0027e8dcc3f",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adffe1a7d0027e8dcc3e",
+      "_assetId": "58d108f413b751d90c4ed53a"
+    },
+    {
+      "title": "Idea_optimized_full.png",
+      "_id": "58f8ae00e1a7d0027e8dcc41",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adffe1a7d0027e8dcc40",
+      "_assetId": "58b0435a6faa37e7449513e9"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/light\">Light vector created by Dooder - Freepik.com</a>",
+      "title": "Mod 4 Menu",
+      "_id": "58f8ae00e1a7d0027e8dcc43",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adffe1a7d0027e8dcc40",
+      "_assetId": "58b948ff6faa37e7449516a8"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/light\">Light vector created by Dooder - Freepik.com</a>",
+      "title": "Mod 4 Banner",
+      "_id": "58f8ae00e1a7d0027e8dcc44",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adffe1a7d0027e8dcc40",
+      "_assetId": "58b949746faa37e7449516ad"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/light\">Light vector created by Dooder - Freepik.com</a>",
+      "title": "Mod 4 Banner",
+      "_id": "58f8ae00e1a7d0027e8dcc45",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adffe1a7d0027e8dcc40",
+      "_assetId": "58b949746faa37e7449516ad"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/light\">Light vector created by Dooder - Freepik.com</a>",
+      "title": "Mod 4 Menu",
+      "_id": "58f8ae00e1a7d0027e8dcc46",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8adffe1a7d0027e8dcc40",
+      "_assetId": "58b948ff6faa37e7449516a8"
+    },
+    {
+      "description": "",
+      "title": "Heart",
+      "_id": "58f8ae00e1a7d0027e8dcc4d",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae00e1a7d0027e8dcc4c",
+      "_assetId": "58c955c413b751d90c4ed45d"
+    },
+    {
+      "description": "",
+      "title": "Teal quiz banner",
+      "_id": "58f8ae00e1a7d0027e8dcc50",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae00e1a7d0027e8dcc4f",
+      "_assetId": "58cac38513b751d90c4ed4a0"
+    },
+    {
+      "description": "",
+      "title": "Effectuation",
+      "_id": "58f8ae00e1a7d0027e8dcc54",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae00e1a7d0027e8dcc53",
+      "_assetId": "58c134ca13b751d90c4ed405"
+    },
+    {
+      "description": "",
+      "title": "Effectuation",
+      "_id": "58f8ae00e1a7d0027e8dcc55",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae00e1a7d0027e8dcc53",
+      "_assetId": "58c134ca13b751d90c4ed405"
+    },
+    {
+      "description": "",
+      "title": "DBA placeholder teal",
+      "_id": "58f8ae00e1a7d0027e8dcc56",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae00e1a7d0027e8dcc53",
+      "_assetId": "58c13e2c13b751d90c4ed40a"
+    },
+    {
+      "description": "",
+      "title": "Sports Review Founder story",
+      "_id": "58f8ae01e1a7d0027e8dcc5a",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae01e1a7d0027e8dcc59",
+      "_assetId": "58c92fa913b751d90c4ed435"
+    },
+    {
+      "description": "",
+      "title": "Sound Cube founder story",
+      "_id": "58f8ae01e1a7d0027e8dcc5b",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae01e1a7d0027e8dcc59",
+      "_assetId": "58c92fc813b751d90c4ed436"
+    },
+    {
+      "description": "",
+      "title": "BioBean founder story",
+      "_id": "58f8ae01e1a7d0027e8dcc5c",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae01e1a7d0027e8dcc59",
+      "_assetId": "58c92fe613b751d90c4ed437"
+    },
+    {
+      "description": "",
+      "title": "sucnhs",
+      "_id": "58f8ae01e1a7d0027e8dcc5d",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae01e1a7d0027e8dcc59",
+      "_assetId": "58cac31313b751d90c4ed49e"
+    },
+    {
+      "description": "",
+      "title": "Understanding",
+      "_id": "58f8ae01e1a7d0027e8dcc61",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae01e1a7d0027e8dcc60",
+      "_assetId": "58c955eb13b751d90c4ed45f"
+    },
+    {
+      "description": "",
+      "title": "Observe",
+      "_id": "58f8ae01e1a7d0027e8dcc62",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae01e1a7d0027e8dcc60",
+      "_assetId": "58c9564813b751d90c4ed461"
+    },
+    {
+      "description": "",
+      "title": "Visualise",
+      "_id": "58f8ae01e1a7d0027e8dcc63",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae01e1a7d0027e8dcc60",
+      "_assetId": "58c9566113b751d90c4ed463"
+    },
+    {
+      "description": "",
+      "title": "Prototype",
+      "_id": "58f8ae01e1a7d0027e8dcc64",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae01e1a7d0027e8dcc60",
+      "_assetId": "58c9566f13b751d90c4ed465"
+    },
+    {
+      "description": "",
+      "title": "Implement",
+      "_id": "58f8ae01e1a7d0027e8dcc65",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae01e1a7d0027e8dcc60",
+      "_assetId": "58c9569013b751d90c4ed467"
+    },
+    {
+      "description": "",
+      "title": "Heart",
+      "_id": "58f8ae01e1a7d0027e8dcc69",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae01e1a7d0027e8dcc68",
+      "_assetId": "58c955c413b751d90c4ed45d"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
+      "title": "Lightbulb",
+      "_id": "58f8ae01e1a7d0027e8dcc6e",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae01e1a7d0027e8dcc6d",
+      "_assetId": "58b590806faa37e74495145f"
+    },
+    {
+      "description": "",
+      "title": "Syncup",
+      "_id": "58f8ae02e1a7d0027e8dcc74",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae02e1a7d0027e8dcc73",
+      "_assetId": "58c95a1813b751d90c4ed46f"
+    },
+    {
+      "description": "",
+      "title": "Module 4 intro",
+      "_id": "58f8ae02e1a7d0027e8dcc78",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae02e1a7d0027e8dcc77",
+      "_assetId": "58c1345413b751d90c4ed401"
+    },
+    {
+      "description": "",
+      "title": "DBA placeholder teal",
+      "_id": "58f8ae02e1a7d0027e8dcc79",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae02e1a7d0027e8dcc77",
+      "_assetId": "58c13e2c13b751d90c4ed40a"
+    },
+    {
+      "description": "",
+      "title": "Tick2",
+      "_id": "58f8ae02e1a7d0027e8dcc7e",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae02e1a7d0027e8dcc7d",
+      "_assetId": "58c0339a13b751d90c4ed3f7"
+    },
+    {
+      "description": "",
+      "title": "Coffee",
+      "_id": "58f8ae02e1a7d0027e8dcc83",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae02e1a7d0027e8dcc82",
+      "_assetId": "58c9549413b751d90c4ed45b"
+    },
+    {
+      "description": "",
+      "title": "Home button",
+      "_id": "58f8ae02e1a7d0027e8dcc87",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae02e1a7d0027e8dcc86",
+      "_assetId": "58caafc613b751d90c4ed498"
+    },
+    {
+      "description": "",
+      "title": "Next icon",
+      "_id": "58f8ae02e1a7d0027e8dcc89",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae02e1a7d0027e8dcc88",
+      "_assetId": "58cab04b13b751d90c4ed49a"
+    },
+    {
+      "title": "Idea_optimized_full.png",
+      "_id": "58f8ae02e1a7d0027e8dcc8b",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae02e1a7d0027e8dcc8a",
+      "_assetId": "58b0435a6faa37e7449513e9"
+    },
+    {
+      "description": "",
+      "title": "Idea",
+      "_id": "58f8ae02e1a7d0027e8dcc8c",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae02e1a7d0027e8dcc8a",
+      "_assetId": "58b02e8d6faa37e744951399"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/light\">Light vector created by Dooder - Freepik.com</a>",
+      "title": "Mod 3 Menu",
+      "_id": "58f8ae02e1a7d0027e8dcc8e",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae02e1a7d0027e8dcc8a",
+      "_assetId": "58b949476faa37e7449516ab"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/light\">Light vector created by Dooder - Freepik.com</a>",
+      "title": "Mod 3 Banner",
+      "_id": "58f8ae02e1a7d0027e8dcc8f",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae02e1a7d0027e8dcc8a",
+      "_assetId": "58b949636faa37e7449516ac"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/light\">Light vector created by Dooder - Freepik.com</a>",
+      "title": "Mod 3 Banner",
+      "_id": "58f8ae02e1a7d0027e8dcc90",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae02e1a7d0027e8dcc8a",
+      "_assetId": "58b949636faa37e7449516ac"
+    },
+    {
+      "description": "",
+      "title": "Market",
+      "_id": "58f8ae02e1a7d0027e8dcc97",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae02e1a7d0027e8dcc96",
+      "_assetId": "58c0274013b751d90c4ed3d4"
+    },
+    {
+      "description": "",
+      "title": "Value proposition example",
+      "_id": "58f8ae03e1a7d0027e8dcc9d",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae03e1a7d0027e8dcc9c",
+      "_assetId": "58b68fd36faa37e744951465"
+    },
+    {
+      "description": "Chris Shipman",
+      "title": "New business road test",
+      "_id": "58f8ae03e1a7d0027e8dcc9e",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae03e1a7d0027e8dcc9c",
+      "_assetId": "58be7f5913b751d90c4ed3a9"
+    },
+    {
+      "description": "",
+      "title": "DBA placeholder purple",
+      "_id": "58f8ae03e1a7d0027e8dcc9f",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae03e1a7d0027e8dcc9c",
+      "_assetId": "58c13e1e13b751d90c4ed409"
+    },
+    {
+      "description": "",
+      "title": "Biz Narrative 1",
+      "_id": "58f8ae03e1a7d0027e8dcca3",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae03e1a7d0027e8dcca2",
+      "_assetId": "58c026ad13b751d90c4ed3ce"
+    },
+    {
+      "description": "",
+      "title": "Biz Narrative 2",
+      "_id": "58f8ae03e1a7d0027e8dcca4",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae03e1a7d0027e8dcca2",
+      "_assetId": "58c026cb13b751d90c4ed3cf"
+    },
+    {
+      "description": "",
+      "title": "Biz Narrative 3",
+      "_id": "58f8ae03e1a7d0027e8dcca5",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae03e1a7d0027e8dcca2",
+      "_assetId": "58c026e113b751d90c4ed3d0"
+    },
+    {
+      "description": "",
+      "title": "Biz Narrative 3",
+      "_id": "58f8ae03e1a7d0027e8dcca6",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae03e1a7d0027e8dcca2",
+      "_assetId": "58c026e113b751d90c4ed3d0"
+    },
+    {
+      "description": "",
+      "title": "Biz Narrative 2",
+      "_id": "58f8ae03e1a7d0027e8dcca7",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae03e1a7d0027e8dcca2",
+      "_assetId": "58c026cb13b751d90c4ed3cf"
+    },
+    {
+      "description": "",
+      "title": "Biz Narrative 1",
+      "_id": "58f8ae03e1a7d0027e8dcca8",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae03e1a7d0027e8dcca2",
+      "_assetId": "58c026ad13b751d90c4ed3ce"
+    },
+    {
+      "description": "",
+      "title": "Future",
+      "_id": "58f8ae03e1a7d0027e8dccac",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae03e1a7d0027e8dccab",
+      "_assetId": "58c0271613b751d90c4ed3d3"
+    },
+    {
+      "title": "Future_optimized_full.png",
+      "_id": "58f8ae03e1a7d0027e8dccad",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae03e1a7d0027e8dccab",
+      "_assetId": "58c0281113b751d90c4ed3dd"
+    },
+    {
+      "description": "",
+      "title": "Market",
+      "_id": "58f8ae03e1a7d0027e8dccb1",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae03e1a7d0027e8dccb0",
+      "_assetId": "58c0274013b751d90c4ed3d4"
+    },
+    {
+      "description": "",
+      "title": "Future",
+      "_id": "58f8ae04e1a7d0027e8dccb6",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae04e1a7d0027e8dccb5",
+      "_assetId": "58c0271613b751d90c4ed3d3"
+    },
+    {
+      "description": "",
+      "title": "Syncsquare",
+      "_id": "58f8ae04e1a7d0027e8dccbc",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae04e1a7d0027e8dccbb",
+      "_assetId": "58c0312313b751d90c4ed3f3"
+    },
+    {
+      "description": "",
+      "title": "Intro module 3",
+      "_id": "58f8ae04e1a7d0027e8dccc0",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae04e1a7d0027e8dccbf",
+      "_assetId": "58be7f1913b751d90c4ed3a7"
+    },
+    {
+      "description": "",
+      "title": "DBA placeholder purple",
+      "_id": "58f8ae04e1a7d0027e8dccc1",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae04e1a7d0027e8dccbf",
+      "_assetId": "58c13e1e13b751d90c4ed409"
+    },
+    {
+      "description": "",
+      "title": "Tick2",
+      "_id": "58f8ae04e1a7d0027e8dccc6",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae04e1a7d0027e8dccc5",
+      "_assetId": "58c0339a13b751d90c4ed3f7"
+    },
+    {
+      "description": "",
+      "title": "Competitors",
+      "_id": "58f8ae04e1a7d0027e8dccca",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae04e1a7d0027e8dccc9",
+      "_assetId": "58c0270613b751d90c4ed3d2"
+    },
+    {
+      "title": "Competitors_optimized_full.png",
+      "_id": "58f8ae04e1a7d0027e8dcccb",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae04e1a7d0027e8dccc9",
+      "_assetId": "58c0285113b751d90c4ed3e0"
+    },
+    {
+      "description": "",
+      "title": "Advantage",
+      "_id": "58f8ae04e1a7d0027e8dccd0",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae04e1a7d0027e8dcccf",
+      "_assetId": "58c026fb13b751d90c4ed3d1"
+    },
+    {
+      "description": "",
+      "title": "Purple quiz banner",
+      "_id": "58f8ae04e1a7d0027e8dccd2",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae04e1a7d0027e8dccd1",
+      "_assetId": "58cacf9613b751d90c4ed4b7"
+    },
+    {
+      "description": "",
+      "title": "Links2",
+      "_id": "58f8ae04e1a7d0027e8dccd5",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae04e1a7d0027e8dccd4",
+      "_assetId": "58c02fee13b751d90c4ed3ef"
+    },
+    {
+      "description": "",
+      "title": "Execution",
+      "_id": "58f8ae04e1a7d0027e8dccd6",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae04e1a7d0027e8dccd4",
+      "_assetId": "58c02fc813b751d90c4ed3ed"
+    },
+    {
+      "description": "",
+      "title": "Sync2",
+      "_id": "58f8ae04e1a7d0027e8dccd7",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae04e1a7d0027e8dccd4",
+      "_assetId": "58c02fa313b751d90c4ed3eb"
+    },
+    {
+      "description": "",
+      "title": "Home button",
+      "_id": "58f8ae05e1a7d0027e8dccdb",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae05e1a7d0027e8dccda",
+      "_assetId": "58caafc613b751d90c4ed498"
+    },
+    {
+      "description": "",
+      "title": "Next icon",
+      "_id": "58f8ae05e1a7d0027e8dccdd",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_objectId": "58f8ae05e1a7d0027e8dccdc",
+      "_assetId": "58cab04b13b751d90c4ed49a"
+    },
+    {
+      "description": "",
+      "title": "",
+      "_assetId": "58f8b97ce1a7d0027e8dccf0",
+      "_objectId": "58f8adfae1a7d0027e8dcb29",
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_filter": {
+        "_type": "image"
+      },
+      "_id": "58f8b97de1a7d0027e8dccf1"
+    },
+    {
+      "description": "",
+      "title": "",
+      "_assetId": "58f8b9f9e1a7d0027e8dccf2",
+      "_objectId": "58f8adffe1a7d0027e8dcc40",
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_filter": {
+        "_type": "image"
+      },
+      "_id": "58f8b9fbe1a7d0027e8dccf3"
+    },
+    {
+      "description": "",
+      "title": "",
+      "_assetId": "58f8ba24e1a7d0027e8dccf4",
+      "_objectId": "58f8adfbe1a7d0027e8dcb71",
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_filter": {
+        "_type": "image"
+      },
+      "_id": "58f8ba25e1a7d0027e8dccf5"
+    },
+    {
+      "description": "",
+      "title": "",
+      "_assetId": "58f8ba7be1a7d0027e8dccf8",
+      "_objectId": "58f8ae02e1a7d0027e8dcc8a",
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_filter": {
+        "_type": "image"
+      },
+      "_id": "58f8ba7de1a7d0027e8dccf9"
+    },
+    {
+      "description": "",
+      "title": "",
+      "_assetId": "58f8ba9ce1a7d0027e8dccfa",
+      "_objectId": "58f8adfee1a7d0027e8dcbf9",
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_filter": {
+        "_type": "image"
+      },
+      "_id": "58f8ba9de1a7d0027e8dccfb"
+    },
+    {
+      "description": "",
+      "title": "",
+      "_assetId": "58f8bc44e1a7d0027e8dccff",
+      "_objectId": "58f8adfae1a7d0027e8dcb1e",
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_id": "58f8bc46e1a7d0027e8dcd00"
+    },
+    {
+      "description": "",
+      "title": "",
+      "_assetId": "58f8cf11e1a7d0027e8dcd01",
+      "_objectId": "58f8adfae1a7d0027e8dcb29",
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_id": "58f8cf12e1a7d0027e8dcd02"
+    },
+    {
+      "description": "",
+      "title": "",
+      "_assetId": "58f8cf11e1a7d0027e8dcd01",
+      "_objectId": "58f8adfae1a7d0027e8dcb29",
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_filter": {
+        "_type": "image"
+      },
+      "_id": "58f8cf4ce1a7d0027e8dcd03"
+    },
+    {
+      "description": "",
+      "title": "",
+      "_assetId": "58f8d336e1a7d0027e8dcd04",
+      "_objectId": "58f8adfae1a7d0027e8dcb29",
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_filter": {
+        "_type": "image"
+      },
+      "_id": "58f8d339e1a7d0027e8dcd05"
+    },
+    {
+      "description": "",
+      "title": "",
+      "_assetId": "58f8d336e1a7d0027e8dcd04",
+      "_objectId": "58f8adffe1a7d0027e8dcc40",
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_filter": {
+        "_type": "image"
+      },
+      "_id": "58f8d37fe1a7d0027e8dcd06"
+    },
+    {
+      "description": "",
+      "title": "",
+      "_assetId": "58f8d336e1a7d0027e8dcd04",
+      "_objectId": "58f8adfbe1a7d0027e8dcb71",
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_filter": {
+        "_type": "image"
+      },
+      "_id": "58f8d393e1a7d0027e8dcd07"
+    },
+    {
+      "description": "",
+      "title": "",
+      "_assetId": "58f8d336e1a7d0027e8dcd04",
+      "_objectId": "58f8ae02e1a7d0027e8dcc8a",
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_filter": {
+        "_type": "image"
+      },
+      "_id": "58f8d3b6e1a7d0027e8dcd08"
+    },
+    {
+      "description": "",
+      "title": "",
+      "_assetId": "58f8d336e1a7d0027e8dcd04",
+      "_objectId": "58f8adfee1a7d0027e8dcbf9",
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_filter": {
+        "_type": "image"
+      },
+      "_id": "58f8d3c3e1a7d0027e8dcd09"
+    },
+    {
+      "description": "",
+      "title": "",
+      "_assetId": "58f8cf11e1a7d0027e8dcd01",
+      "_objectId": "58f8ae02e1a7d0027e8dcc8a",
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_filter": {
+        "_type": "image"
+      },
+      "_id": "58f8d40be1a7d0027e8dcd0a"
+    },
+    {
+      "description": "",
+      "title": "",
+      "_assetId": "58f8cf11e1a7d0027e8dcd01",
+      "_objectId": "58f8adfbe1a7d0027e8dcb71",
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_filter": {
+        "_type": "image"
+      },
+      "_id": "58f8d415e1a7d0027e8dcd0b"
+    },
+    {
+      "description": "",
+      "title": "",
+      "_assetId": "58f8cf11e1a7d0027e8dcd01",
+      "_objectId": "58f8adffe1a7d0027e8dcc40",
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_filter": {
+        "_type": "image"
+      },
+      "_id": "58f8d420e1a7d0027e8dcd0c"
+    },
+    {
+      "description": "",
+      "title": "",
+      "_assetId": "58f8cf11e1a7d0027e8dcd01",
+      "_objectId": "58f8adfee1a7d0027e8dcbf9",
+      "_courseId": "58f8adfae1a7d0027e8dcb1e",
+      "_filter": {
+        "_type": "image"
+      },
+      "_id": "58f8d436e1a7d0027e8dcd0d"
+    }
+  ],
+  "_components": [
+    "videoStream",
+    "text",
+    "graphic",
+    "accordion",
+    "media",
+    "narrative",
+    "mcq",
+    "textInput",
+    "dragAndDrop",
+    "interactiveVideo",
+    "ordering",
+    "links",
+    "hotgraphic",
+    "flipCard",
+    "attachment",
+    "matching",
+    "flowChart",
+    "textAndGraphic"
+  ],
+  "_extensions": [
+    "progress",
+    "courseNavigation",
+    "certificate",
+    "bookmarking",
+    "resources"
+  ]
+}

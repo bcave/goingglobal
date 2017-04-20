@@ -1,0 +1,698 @@
+[
+  {
+    "_id": "58f8adfae1a7d0027e8dcb29",
+    "_courseId": "58f8adfae1a7d0027e8dcb1e",
+    "_parentId": "58f8adfae1a7d0027e8dcb1e",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "Choosing where to expand",
+    "duration": "15 minutes",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_hoverGraphic": {
+        "src": "course/en/assets/images/58b02e8d6faa37e744951399/small/550935e8c0c404a2cd2c2dcfbafe5753.jpg"
+      },
+      "_graphic": {
+        "src": ""
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_backgroundImage": {
+        "src": "course/en/assets/images/58c9547713b751d90c4ed45a/large/1e71d365d1cc9c5c0650c1ecc6e3c891.png"
+      }
+    },
+    "_mapMenu": {
+      "_pointerImage": "course/en/assets/images/58f8b97ce1a7d0027e8dccf0/ae5bc43a5271969a4d2343c4749a95a1.png",
+      "_position": {
+        "_top": 54,
+        "_left": 25
+      }
+    },
+    "_coverMenu": {
+      "src": "course/en/assets/images/58b0435a6faa37e7449513e9/large/Idea_optimized_full.png",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "src": "course/en/assets/images/58b040a16faa37e7449513e2/small/Idea_optimized_full.jpeg",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "src": "course/en/assets/images/58f8d336e1a7d0027e8dcd04/04fc59ed3207c79cdbc32558439a4c37.png",
+      "_repeat": false,
+      "_fixed": true,
+      "_position": "top",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "title": "",
+      "_graphic": {
+        "_small": {
+          "src": ""
+        },
+        "_large": {
+          "src": "course/en/assets/images/58f8cf11e1a7d0027e8dcd01/large/a6be63cf523e7e052b7ce9a379564961.png"
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "_graphic": {
+      "src": "course/en/assets/images/58f8cf11e1a7d0027e8dcd01/a6be63cf523e7e052b7ce9a379564961.png"
+    },
+    "title": "Choosing where to expand",
+    "_type": "page",
+    "_courseOrder": "0"
+  },
+  {
+    "_id": "58f8adffe1a7d0027e8dcc40",
+    "_courseId": "58f8adfae1a7d0027e8dcb1e",
+    "_parentId": "58f8adfae1a7d0027e8dcb1e",
+    "_sortOrder": 1,
+    "__v": 0,
+    "displayTitle": "Property &amp; operations",
+    "duration": "15 minutes",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_hoverGraphic": {
+        "src": "course/en/assets/images/58b948ff6faa37e7449516a8/small/07b5d4a828dd377f79ea544134899e71.png"
+      },
+      "_graphic": {
+        "src": ""
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_backgroundImage": {
+        "src": ""
+      }
+    },
+    "_mapMenu": {
+      "_pointerImage": "course/en/assets/images/58f8b9f9e1a7d0027e8dccf2/3bf1c9664a6cfbb249798334a03815f9.png",
+      "_position": {
+        "_top": 23,
+        "_left": 37
+      }
+    },
+    "_coverMenu": {
+      "src": "course/en/assets/images/58b0435a6faa37e7449513e9/large/Idea_optimized_full.png",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "src": "course/en/assets/images/58b948ff6faa37e7449516a8/small/07b5d4a828dd377f79ea544134899e71.png",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "src": "course/en/assets/images/58f8d336e1a7d0027e8dcd04/04fc59ed3207c79cdbc32558439a4c37.png",
+      "_repeat": true,
+      "_fixed": true,
+      "_position": "top",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "title": "",
+      "_graphic": {
+        "_small": {
+          "src": "course/en/assets/images/58b949746faa37e7449516ad/small/cc7be736fa11b9eb8cd79e0a324148c0.png"
+        },
+        "_large": {
+          "src": "course/en/assets/images/58b949746faa37e7449516ad/large/cc7be736fa11b9eb8cd79e0a324148c0.png"
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "_graphic": {
+      "src": "course/en/assets/images/58f8cf11e1a7d0027e8dcd01/a6be63cf523e7e052b7ce9a379564961.png"
+    },
+    "title": "Property & operations",
+    "_type": "page",
+    "_courseOrder": "1"
+  },
+  {
+    "_id": "58f8adfbe1a7d0027e8dcb71",
+    "_courseId": "58f8adfae1a7d0027e8dcb1e",
+    "_parentId": "58f8adfae1a7d0027e8dcb1e",
+    "_sortOrder": 2,
+    "__v": 0,
+    "displayTitle": "Communications &amp; marketing",
+    "duration": "15 minutes",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": "course/en/assets/images/58b02e8d6faa37e744951399/small/550935e8c0c404a2cd2c2dcfbafe5753.jpg"
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_backgroundImage": {
+        "src": ""
+      }
+    },
+    "_mapMenu": {
+      "_pointerImage": "course/en/assets/images/58f8ba24e1a7d0027e8dccf4/03fff22d794faf238ea2d3694cf8eada.png",
+      "_position": {
+        "_top": 45,
+        "_left": 56
+      }
+    },
+    "_coverMenu": {
+      "src": "course/en/assets/images/58b0435a6faa37e7449513e9/large/Idea_optimized_full.png",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "src": "course/en/assets/images/58b86bcc6faa37e7449516a3/small/79b15481ca56ef2b4cc7d2660c6b76f0.png",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "src": "course/en/assets/images/58f8d336e1a7d0027e8dcd04/04fc59ed3207c79cdbc32558439a4c37.png",
+      "_repeat": true,
+      "_fixed": true,
+      "_position": "top",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "title": "",
+      "_graphic": {
+        "_small": {
+          "src": ""
+        },
+        "_large": {
+          "src": "course/en/assets/images/58b86ba86faa37e7449516a1/large/84c956d1cf24a60d8c61c6bd79a6d728.png"
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "_graphic": {
+      "src": "course/en/assets/images/58f8cf11e1a7d0027e8dcd01/a6be63cf523e7e052b7ce9a379564961.png"
+    },
+    "title": "Communications & marketing",
+    "_type": "page",
+    "_courseOrder": "2"
+  },
+  {
+    "_id": "58f8ae02e1a7d0027e8dcc8a",
+    "_courseId": "58f8adfae1a7d0027e8dcb1e",
+    "_parentId": "58f8adfae1a7d0027e8dcb1e",
+    "_sortOrder": 3,
+    "__v": 0,
+    "displayTitle": "Talent &amp; culture",
+    "duration": "15 minutes",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": "course/en/assets/images/58b02e8d6faa37e744951399/small/550935e8c0c404a2cd2c2dcfbafe5753.jpg"
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_backgroundImage": {
+        "src": ""
+      }
+    },
+    "_mapMenu": {
+      "_pointerImage": "course/en/assets/images/58f8ba7be1a7d0027e8dccf8/320da5141377eca4f4722bee9e4e6fdb.png",
+      "_position": {
+        "_top": 67,
+        "_left": 57
+      }
+    },
+    "_coverMenu": {
+      "src": "course/en/assets/images/58b0435a6faa37e7449513e9/large/Idea_optimized_full.png",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "src": "course/en/assets/images/58b949476faa37e7449516ab/small/6830a30c46752a5deec0394bf591dcee.png",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "src": "course/en/assets/images/58f8d336e1a7d0027e8dcd04/04fc59ed3207c79cdbc32558439a4c37.png",
+      "_repeat": true,
+      "_fixed": true,
+      "_position": "top",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "title": "",
+      "_graphic": {
+        "_small": {
+          "src": "course/en/assets/images/58b949636faa37e7449516ac/small/3a7a38872345f8ac04ef51e0bdd77578.png"
+        },
+        "_large": {
+          "src": "course/en/assets/images/58b949636faa37e7449516ac/large/3a7a38872345f8ac04ef51e0bdd77578.png"
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "_graphic": {
+      "src": "course/en/assets/images/58f8cf11e1a7d0027e8dcd01/a6be63cf523e7e052b7ce9a379564961.png"
+    },
+    "title": "Talent & culture",
+    "_type": "page",
+    "_courseOrder": "3"
+  },
+  {
+    "_id": "58f8adfee1a7d0027e8dcbf9",
+    "_courseId": "58f8adfae1a7d0027e8dcb1e",
+    "_parentId": "58f8adfae1a7d0027e8dcb1e",
+    "_sortOrder": 4,
+    "__v": 0,
+    "displayTitle": "Regulations &amp; tax",
+    "duration": "15 minutes",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": "course/en/assets/images/58b02e8d6faa37e744951399/small/550935e8c0c404a2cd2c2dcfbafe5753.jpg"
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_backgroundImage": {
+        "src": ""
+      }
+    },
+    "_mapMenu": {
+      "_pointerImage": "course/en/assets/images/58f8ba9ce1a7d0027e8dccfa/a53f1e9f3bb09eb5590ea837d38a27e9.png",
+      "_position": {
+        "_top": 31,
+        "_left": 75
+      }
+    },
+    "_coverMenu": {
+      "src": "course/en/assets/images/58b0435a6faa37e7449513e9/large/Idea_optimized_full.png",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "src": "course/en/assets/images/58b949266faa37e7449516a9/small/0653f02f00c32372f8cfc619370ce5e2.png",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "src": "course/en/assets/images/58f8d336e1a7d0027e8dcd04/04fc59ed3207c79cdbc32558439a4c37.png",
+      "_repeat": true,
+      "_fixed": true,
+      "_position": "top",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "title": "",
+      "_graphic": {
+        "_small": {
+          "src": "course/en/assets/images/58b949886faa37e7449516ae/small/6f4a0bd20a75465bdb5cba6df01bc232.png"
+        },
+        "_large": {
+          "src": "course/en/assets/images/58b949886faa37e7449516ae/large/6f4a0bd20a75465bdb5cba6df01bc232.png"
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "_graphic": {
+      "src": "course/en/assets/images/58f8cf11e1a7d0027e8dcd01/a6be63cf523e7e052b7ce9a379564961.png"
+    },
+    "title": "Regulations & tax",
+    "_type": "page",
+    "_courseOrder": "4"
+  }
+]
